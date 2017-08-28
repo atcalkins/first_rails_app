@@ -1,0 +1,2 @@
+class Lorem < ApplicationRecord
+end
